@@ -2,7 +2,6 @@ Coursera - Machine Learning Project
 Maz Dunic
 Sunday, January 25, 2015
 Writeup submission.
-setwd("C:/Users/Maz/Desktop/Machine Learning")
 ## Load training data
 TrainingdataRaw <- read.csv(file="pml-training.csv")
 ## Create copy to work with and investigate
